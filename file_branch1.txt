@@ -1,2 +1,5 @@
+
 new file is added to branch1
 added a new line
+new file is ADDED TO BRANCH2
+
